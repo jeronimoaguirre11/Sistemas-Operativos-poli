@@ -1,6 +1,6 @@
 # Sistemas operativos
 
-Este repositorio contiene todo lo relacionado con la materias, practicas con interrupciones, semaforos y maquina virtual
+Este repositorio contiene todo lo relacionado con la materia, practicas con interrupciones, semaforos y maquina virtual
 
 ## estructura y definicion de cada algoritmo
 
